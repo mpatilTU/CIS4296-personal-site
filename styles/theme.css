@@ -4,7 +4,7 @@
     --bs-primary-rgb: 158, 27, 52;
     --bs-primary-dark: #721426;
     --bs-primary-dark-rgb: 136, 24, 35;
-
+   
 }
 
 .btn-primary {
@@ -22,6 +22,7 @@
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: #721426;
     --bs-btn-disabled-border-color: #721426;
+    
 }
 
 .navbar {
@@ -30,6 +31,7 @@
     --bs-navbar-padding-y: 0;
     --bs-navbar-brand-color: white;
     --bs-navbar-brand-hover-color: white;
+
 }
 
 
@@ -44,14 +46,15 @@
 .navbar-nav {
     --bs-nav-link-color: white;
     --bs-nav-link-hover-color: white;
+  
 }
 
-/* .btn-primary {
+/*.btn-primary {
     background-color: var(--temple-red) !important;
     border-color: var(--temple-red) !important;
-} */
+} 
 
-/* .btn-primary:hover {
+ .btn-primary:hover {
     background-color: var(--temple-red-dark) !important;
     border-color: var(--temple-red-dark) !important;
 } */
